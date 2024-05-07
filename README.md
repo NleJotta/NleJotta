@@ -24,6 +24,7 @@
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games!, but above all training my physique to work on my body and mind. I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
 
+
 <!-- Links -->
 <div align="left">
   <a href="wa.me/5511952257278" target="_blank">
@@ -36,6 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
+
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
