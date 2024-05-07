@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm João! A passionate data analysis and development student from Brazil.
 
-  - 🌱 I'm currently studying data analysis and development at fiap
+  - 🌱 I'm currently studying data analysis and development at Uninove
 
   - 🔭 I'm looking for my first job opportunity. My dream is to work one day as a developer for a large company
 
