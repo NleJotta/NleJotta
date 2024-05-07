@@ -4,6 +4,9 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<img src="https://raw.githubusercontent.com/NleJotta/NleJotta/output/snake.svg" alt="Snake animation" />
+
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm João! A passionate data analysis and development student from Brazil.
