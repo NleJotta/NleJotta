@@ -36,6 +36,8 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
 
+---
+
 <!-- Links -->
 <div align="left">
   <a href="wa.me/5511952257278" target="_blank">
@@ -49,6 +51,7 @@
   </a>
 </div>
 
+--- 
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
