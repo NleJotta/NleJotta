@@ -53,9 +53,6 @@
 
 --- 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
 ---
 
 <!-- GIF -->
