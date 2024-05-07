@@ -4,9 +4,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<img src="https://raw.githubusercontent.com/NleJotta/NleJotta/output/snake.svg" alt="Snake animation" />
-
-
 <!-- Presentation -->
 <p>
   Hi 👋, I'm João! A passionate data analysis and development student from Brazil.
@@ -14,6 +11,8 @@
   - 🌱 I'm currently studying data analysis and development at fiap
 
   - 🔭 I'm looking for my first job opportunity. My dream is to work one day as a developer for a large company
+
+  - 🌍 I am fluent in Portuguese, intermediate level in English and advanced in Spanish
 </p>
 
 <!-- Dropdown -->
