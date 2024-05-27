@@ -18,6 +18,9 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
   - 💬 I am 18 years old and currently live in Brazil. I have an intermediate level in English and advanced Spanish. I have experience with Pythhon, JavaScript, Html5, Css3, and I am studying data analysis and development. I also worked in an international company and talked to foreign clients, which helped me develop important skills such as communication, marketing and analytical skills.
 
