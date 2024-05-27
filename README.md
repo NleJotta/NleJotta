@@ -70,7 +70,7 @@
 </p>
 
 ---
-## 👀 Profile views:
+ 👀 Profile views:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/NleJotta/count.svg?"  />
