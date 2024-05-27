@@ -27,8 +27,8 @@
   - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games!, but above all training my physique to work on my body and mind. I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
 
----
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+---
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
